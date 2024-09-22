@@ -1,0 +1,10 @@
+.group {
+    width: 100px;
+}
+
+input,
+textarea {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
